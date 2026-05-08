@@ -1,0 +1,7 @@
+REPORTE DEL ANALISIS
+----------------------------
+Fecha: 08/05/2026 22:40
+Total de registros procesados: 8
+Cantidad de AND = 1: 2
+Cantidad de OR = 1: 6
+Cantidad de XOR = 1: 4
