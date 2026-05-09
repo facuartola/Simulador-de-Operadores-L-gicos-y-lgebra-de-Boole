@@ -67,6 +67,10 @@ OE-02: Implementar simulacion de puertas logicas
 OE-03: Agregar generacion de resultados y grafico
 ```
 
+## Revisión final
+
+Antes de cerrar el proyecto se realizó una revisión general del código, la estructura de carpetas y los archivos generados. También se verificó que los resultados queden guardados dentro de la carpeta correspondiente.
+
 ## Observaciones
 
 El proyecto usa rutas relativas, por lo que puede ejecutarse desde distintas computadoras sin depender de rutas locales especificas. Los resultados generados quedan dentro de la carpeta `resultados`.
